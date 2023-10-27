@@ -1,7 +1,7 @@
 ## Training
 1. Run "gen_aic_veri_dataset.py"
 2. Run "train.py"
-3. weights will be saved in "./outputs"
+3. AIC19 + VeRi-776 trained weights will be saved in "./outputs"
 
 ## Model Zoo
 Under the "./net"
