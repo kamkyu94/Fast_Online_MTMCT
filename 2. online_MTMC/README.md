@@ -1,6 +1,5 @@
 ## Model Zoo
-1. Under "./preliminary/det_weights/" place COCO trained weights from https://github.com/WongKinYiu/yolov7
- 
+Under "./preliminary/det_weights/" place COCO trained weights from https://github.com/WongKinYiu/yolov7
  - yolov7-w6.pt: https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7-w6.pt
  - yolov7-e6.pt: https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7-e6.pt
  - yolov7-d6.pt: https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7-d6.pt
@@ -8,9 +7,8 @@
 
 <br />
 
-2. Under "./preliminary/feat_ext_weights/" place AIC19 + VeRi-776 trained weights
- 
- - resnet50_ibn_a_gap_120.t7:
- - resnet50_ibn_a_gem_120.t7:
+Under "./preliminary/feat_ext_weights/" place AIC19 + VeRi-776 trained weights
+ - resnet50_ibn_a_gap_120.t7: https://drive.google.com/file/d/1ZQspaimt2WfyXAeX6C1tSgAPtcBDfv0w/view?usp=sharing
+ - resnet50_ibn_a_gem_120.t7: https://drive.google.com/file/d/1A2ib3FNSFoaFdvbcSWay6JYD5AOHn8w0/view?usp=sharing
  - resnet101_ibn_a_gap_120.t7:
  - resnet101_ibn_a_gem_120.t7:
