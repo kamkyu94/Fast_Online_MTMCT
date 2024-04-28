@@ -10,8 +10,8 @@ num_ide_class = 960
 
 # Configurations (train)
 num_samples_per_id = 120
-k_num = 2
-p_num = 2
+k_num = 4
+p_num = 18
 batch_size = k_num * p_num
 seed = 10000
 num_epoch = 120
