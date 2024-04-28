@@ -10,7 +10,7 @@ Under "./net" place the ImageNet pre-trained weights from https://github.com/Xin
  - resnet101_ibn_a.pth: https://github.com/XingangPan/IBN-Net/releases/download/v1.0/resnet101_ibn_a-59ea0ac6.pth
    
 ## Model Zoo
-Our trained model:
+Our trained models:
 
  - resnet50_ibn_a_gap: https://drive.google.com/file/d/1ZQspaimt2WfyXAeX6C1tSgAPtcBDfv0w/view?usp=drive_link
  - resnet50_ibn_a_gem: https://drive.google.com/file/d/1A2ib3FNSFoaFdvbcSWay6JYD5AOHn8w0/view?usp=drive_link
