@@ -1,6 +1,6 @@
 # Fast_Online_MTMCT
 
-Official code for "Fast online multi-target multi-camera tracking for vehicles"
+Official code for "Fast online multi-target multi-camera tracking for vehicles", Applied Intelligence, 2023
  - https://link.springer.com/article/10.1007/s10489-023-05081-7
 
 ## Environment
